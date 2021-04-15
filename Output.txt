@@ -1,0 +1,12 @@
+             Grade Sheet: 
+            ------------ 
+1.Student Name: Joanne Smith 	Average score: 91.25 	Grade : A 
+2.Student Name: Will Jones 	Average score: 90.00 	Grade : A 
+3.Student Name: Kerry McDonald 	Average score: 84.00 	Grade : B 
+4.Student Name: Sam Young 	Average score: 75.50 	Grade : C 
+5.Student Name: Jill Barnes 	Average score: 94.00 	Grade : A 
+6.Student Name: Joanne Smith 	Average score: 92.75 	Grade : A 
+7.Student Name: Will Jones 	Average score: 68.50 	Grade : D 
+8.Student Name: Kerry McDonald 	Average score: 86.25 	Grade : B 
+9.Student Name: Sam Young 	Average score: 88.25 	Grade : B 
+10.Student Name: Jill Barnes 	Average score: 0.00 	Grade : F 

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=GradeSheet
+comment0.text=\r\n\ GradeSheet\ -\ Write\ a\ description\ here.\r\n\ \r\n\ @author\ Jonghyun\ Park\r\n\ @version\ (Dec\ 8,\ 2019)\r\n
+comment1.params=studentNumber\ name
+comment1.target=void\ setName(int,\ java.lang.String)
+comment2.params=studentNumber\ scores
+comment2.target=void\ setScores(int,\ double[])
+comment3.params=studentNumber
+comment3.target=java.lang.String\ getName(int)
+comment4.params=studentNumber
+comment4.target=double\ getAverage(int)
+comment5.params=studentNumber
+comment5.target=char\ getLetterGrade(int)
+comment6.params=to\ from
+comment6.target=void\ copyArray(double[],\ double[])
+comment7.params=scores
+comment7.target=double\ calcAverage(double[])
+comment8.params=studentNumber
+comment8.target=void\ assignGrade(int)
+comment9.params=average
+comment9.target=char\ determineGrade(double)
+numComments=10

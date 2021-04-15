@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GradeSheetDemonstration
+comment0.text=\r\n\ \ \ This\ program\ demonstrates\ a\ solution\ to\ the\ Grade\ Sheet\ programme\ in\ Assignment4.\r\n\ \ This\ program\ uses\ the\ data\ stored\ in\ the\ StudentInfo.txt\ file\r\n\ \ to\ generate\ a\ book\ sheet\ for\ 10\ students\ where\ each\ student\ has\ 5\ scores.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=gs
+comment2.target=void\ readFromFile(GradeSheet)
+numComments=3
